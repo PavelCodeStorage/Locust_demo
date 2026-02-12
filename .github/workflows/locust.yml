@@ -3,7 +3,7 @@ name: Locust Test
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   run-locust:
