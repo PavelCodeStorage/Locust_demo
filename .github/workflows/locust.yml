@@ -29,7 +29,7 @@ jobs:
           --headless \
           -u 10 \
           -r 1 \
-          --run-time 5s \
+          --run-time 60s \
           --html report.html
 
       - name: Upload Locust report

@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+PUT,/booking/700,HTTPError('405 Client Error: Method Not Allowed for url: /booking/700'),1
